@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+header{
+  background-color: pink;
+}
+
+.navbar-nav{
+  font-size: 40px;
+}
+
+.top-pic{
+  width: 100%;
+}
+.card-img-top{
+ 
+  height:400px;
+}
+
+
+.contact-logo{
+  width: 10%;
+}
